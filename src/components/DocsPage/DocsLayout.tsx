@@ -28,7 +28,7 @@ export const DocsLayout = ({ children }: DocsLayoutProps) => {
               hextastudio/ui needs your support to stay running 🫶{" "}
               <Link
                 className="underline flex items-center gap-1"
-                href="https://buy.stripe.com/7sI1693bkdcXayc8wE"
+                href="https://buy.stripe.com/9AQcQ3bQebxqaf69AB"
               >
                 Help us
               </Link>

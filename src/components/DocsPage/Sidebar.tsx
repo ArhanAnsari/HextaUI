@@ -98,17 +98,17 @@ export const Sidebar = () => {
               <span className="text-sm opacity-60">Stay updated </span>
               <Link
                 className="text-sm blue-link w-fit"
-                href="https://x.com/preetsuthar17"
+                href="https://github.com/ArhanAnsari/HextaUI"
                 target="_blank"
               >
-                @preetsuthar17
+                @ArhanAnsari
               </Link>
             </li>
             <li>
               <span className="text-sm opacity-90">🫶 Support </span>
               <Link
                 className="text-sm blue-link w-fit"
-                href="https://buy.stripe.com/7sI1693bkdcXayc8wE"
+                href="https://buy.stripe.com/9AQcQ3bQebxqaf69AB"
                 target="_blank"
               >
                 hextastudio/ui
